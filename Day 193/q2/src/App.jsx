@@ -1,12 +1,12 @@
-import React from "react";
+import "./App.css";
+import ProductFilterApp from "./components/ProductFilter";
 
-import Counter from "./components/Counter";
-const App = () => {
+function App() {
   return (
-    <div>
-      <Counter />
+    <div className="App">
+      <ProductFilterApp />
     </div>
   );
-};
+}
 
 export default App;

@@ -1,9 +1,10 @@
-Q1. React_lecture13_counter
+Q2. LLD-React_Product_Filter
 
-You are tasked with creating a simple counter component using React. The counter should be implemented as a class-based component and should have the following functionalities:
+Problem Statement Build a dynamic product filter application using React. This application will allow users to filter a list of products by category without any server or API calls, demonstrating handling of state and rendering based on user input.
 
-1. Display an initial count of 0.
-2. Render two buttons: one for incrementing the count and one for decrementing the count.
-3. pdate the count accordingly when the buttons are clicked.
+Requirements:
 
-You are provided with a basic structure for the Counter component. Your task is to complete the component so that it functions as described above.
+1. Display a list of products. Each product has a name, price, and category.
+2. Provide a set of checkboxes that allow users to select which categories to view.
+3. The product list should update in real-time as users check/uncheck categories.
+4. No use of external APIs; all data should be handled within the app's state
