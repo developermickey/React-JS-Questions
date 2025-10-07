@@ -1,0 +1,4 @@
+Q1. LLD-React_PureComponent_Counter
+
+Problem Statement:
+You are tasked with creating a pure component in React that displays a simple counter. The component should increment the counter value by 1 every time the user clicks on a button. However, there's a catch: the component must be pure, meaning it should not mutate its state directly but instead return a new state object whenever a change occurs.
