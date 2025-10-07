@@ -1,0 +1,9 @@
+Q1. React_lecture13_counter
+
+You are tasked with creating a simple counter component using React. The counter should be implemented as a class-based component and should have the following functionalities:
+
+1. Display an initial count of 0.
+2. Render two buttons: one for incrementing the count and one for decrementing the count.
+3. pdate the count accordingly when the buttons are clicked.
+
+You are provided with a basic structure for the Counter component. Your task is to complete the component so that it functions as described above.
