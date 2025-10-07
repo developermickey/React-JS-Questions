@@ -1,0 +1,4 @@
+Q1. LLD-React_Implement_Debouncing
+
+Problem Statement: Implement Debouncing in React with Static Data
+For this task, you are required to optimize an existing React component that includes a search input field for filtering a list of items. The original component filters the list immediately as the user types, leading to potentially inefficient rendering. You will modify the component by implementing debouncing to reduce unnecessary renders when the user types. Wait for "300ms" before filtering again and reset the list if the input is cleared.
